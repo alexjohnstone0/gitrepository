@@ -1,0 +1,30 @@
+Expo Project details so far:
+
+-Using Windows PowerShell
+
+-Downloaded Expo CLI for interface between developer and other Expo tools
+	npm install -g expo-cli
+
+-Created Mendy project in C-drive
+
+-Installed React Navigation for screen nav
+	npm install @react-navigation/native
+	npm install react-native-screens react-native-safe-area-context react-native-gesture-	handler react-native-reanimated react-native-vector-icons @react-navigation/stack
+
+-Installed Zustland for State Management
+	npm install zustand
+
+-Installed Firebase for Google, Facebook, Email/Password
+	npm install firebase
+
+-Installed Tailwind for easy UI 				*** Unsure if it is superior
+	npm install nativewind
+
+-Installed Axios for API requests
+	npm install axios
+
+-Installed Stripe for payment processing 		**** Unsure about this choice
+	npm install @stripe/stripe-react-native
+
+-Installed Moment for date and & time scheduling for bookings
+	npm install moment
